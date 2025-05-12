@@ -667,6 +667,7 @@ h2.dashboard-title {
 .memory-card img {
   position: absolute;
   bottom: 18px;
+  right:20px;
 }
 
 .card-title {
